@@ -1,6 +1,7 @@
 package mx.com.gm.web;
 
 import lombok.extern.slf4j.Slf4j;
+import lombok.var;
 import mx.com.gm.domain.Persona;
 import mx.com.gm.servicio.PersonaService;
 import org.springframework.beans.factory.annotation.Autowired;
